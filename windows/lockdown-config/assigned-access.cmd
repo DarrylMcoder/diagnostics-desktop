@@ -14,7 +14,7 @@ $obj.Configuration = [System.Web.HttpUtility]::HtmlEncode(@"
                     <App UserModelId="Microsoft.WindowsCalculator_8wekyb3d8bbwe!App" />
                 </AllowedApps>
             </AllAppsList>
-            <win11:StartPins/>
+
             <Taskbar ShowTaskBar="false" />
         </Profile>
     </Profiles>
