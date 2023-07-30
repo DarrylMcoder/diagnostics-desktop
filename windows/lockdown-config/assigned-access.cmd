@@ -11,7 +11,7 @@ $obj.Configuration = [System.Web.HttpUtility]::HtmlEncode(@"
         <Profile Id="{2DF34DD2-7983-48B3-B1C7-CDCDF341F2BD}">
             <AllAppsList>
                 <AllowedApps>
-                    <App UserModelId="Microsoft.WindowsCalculator_8wekyb3d8bbwe!App" />
+                    <App AppUserModelId="Microsoft.WindowsCalculator_8wekyb3d8bbwe!App" />
                 </AllowedApps>
             </AllAppsList>
 
