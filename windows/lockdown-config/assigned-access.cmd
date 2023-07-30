@@ -20,7 +20,7 @@ $obj.Configuration = [System.Web.HttpUtility]::HtmlEncode(@"
     </Profiles>
     <Configs>
         <Config>
-            <Account>Diagnostics Device</Account>
+            <Account>DiagnosticsDevice</Account>
             <DefaultProfile Id="{2DF34DD2-7983-48B3-B1C7-CDCDF341F2BD}"/>
         </Config>
     </Configs>
